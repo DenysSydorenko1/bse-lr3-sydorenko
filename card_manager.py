@@ -1,5 +1,5 @@
 # card_manager.py
-
+# Code Review by Бондаренко Тетяна
 class CardManager:
     def __init__(self):
         # Імітація бази даних карток: (id, category, text, age_rating)
